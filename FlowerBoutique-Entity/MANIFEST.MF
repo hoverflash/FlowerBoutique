@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.2
+Created-By: 1.7.0_67-b01 (Oracle Corporation)
+Bundle-Name: FlowerBoutique-Entity
+Bundle-Version: 1.4.1
+Bundle-Date: 2015-04-11 18:34:29 ICT
+Implementation-Title: FlowerBoutique-Entity
+Implementation-Version: 1.4.1
+Implementation-URL: http://www.example.com
+Dependencies: org.hibernate, org.javassist
+
